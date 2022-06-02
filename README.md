@@ -1,5 +1,5 @@
-# udacity_flutter_course
+# unit-converter-app
 
-A new Flutter project.
+A unit converter with beautiful UI design.
 
 
