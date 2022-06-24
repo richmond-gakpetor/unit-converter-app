@@ -88,7 +88,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
     super.didChangeDependencies();
     if (_categories.isEmpty) {
       await _retrieveLocalCategories();
-      await _retrieveApiCategory();
+      // await _retrieveApiCategory();
     }
   }
 
